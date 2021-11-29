@@ -1,0 +1,70 @@
+* {
+    text-align: center;
+    background-color: rgb(216, 245, 192);
+}
+
+h1 {
+    color: red;
+    font-size: 2rem;
+    margin: 25px auto;
+    width: 470px;
+}
+
+
+form {
+    margin: 25px auto;
+    padding: 10px;
+    border: 2px solid #8fb7e4;
+    width: 459px;
+}
+
+tr {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+}
+
+input {
+    font-size: 1.2rem;
+}
+
+.input1 {
+    background-color: aquamarine;
+    margin: 20px;
+    height: 40px;
+    width: 100px;
+}
+
+.listlink {
+    text-align: center;
+    margin: 25px auto;
+    padding: 10px;
+    border: 2px solid #6d2d03;
+    background-color: #8fb7e4;
+}
+
+.tbl, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.tbl {
+    width: 100%;
+    text-align: left;
+    margin: 50px;
+}
+
+.inputsearch {
+    width: 300px;
+    font-size: 1rem;
+    background-color: white;
+}
+
+.selectsearch {
+    width: 300px;
+    font-size: 1rem;
+    background-color: white;
+
+}
